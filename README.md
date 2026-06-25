@@ -1,6 +1,6 @@
 # 4_X_4_Slide_puzzle
 4x4 sliding puzzle implementation in C
-
+```c
 Compilation:
 gcc main.c
 
@@ -45,7 +45,7 @@ Read: a
 14      3       13
 12      9       6       5
 w
-
+---
 
 Read: w
 1       4       15      7
